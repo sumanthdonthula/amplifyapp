@@ -95,8 +95,8 @@ CODEGEN="{\
 }"
 
 AUTHCONFIG="{\
-\"facebookAppIdUserPool\":\"888888888888888\",\
-\"facebookAppSecretUserPool\":\"88888888888888888\"\
+\"facebookAppIdUserPool\":\"3007432789486402\",\
+\"facebookAppSecretUserPool\":\"1e131b1e28f33ba0eb5b7338582ef316\"\
 }"
 
 CATEGORIES="{\
